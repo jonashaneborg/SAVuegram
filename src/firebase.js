@@ -4,13 +4,14 @@ import 'firebase/firestore'
 
 // firebase init
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: ''
+  apiKey: "AIzaSyDuLHwUCAKnjzZ-ZGWGSHAbpDzPgy3qM0c",
+  authDomain: "vue-app-a4d41.firebaseapp.com",
+  databaseURL: "https://vue-app-a4d41.firebaseio.com",
+  projectId: "vue-app-a4d41",
+  storageBucket: "vue-app-a4d41.appspot.com",
+  messagingSenderId: "1093970165984",
+  appId: "1:1093970165984:web:c2b0a52a0bcd41c6319085",
+  measurementId: "G-4JGQ05CEW2"
 }
 firebase.initializeApp(firebaseConfig)
 
